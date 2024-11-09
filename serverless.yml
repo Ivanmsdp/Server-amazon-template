@@ -12,7 +12,7 @@ plugins:
 custom:
   customDomain:
     # [{Modificar - Dominio en el que se trabajará }]
-    domainName: example.com
+    domainName: Ivanm-yt-tlm-sdp.cpm.mx
     basePath: ''
     stage: ${self:provider.stage}
     createRoute53Record: true
